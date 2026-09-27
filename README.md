@@ -1,5 +1,5 @@
-# 💫 About Me:
-I knew about HTML CSS JAVA and C++ . I currently learning Springboot and working with database. I created some projects using HTML and CSS  . I knew about Data stucture fundamentals I keep on to solve problems on Leeetcode platform
+About Me:
+I knoww about  basics from HTML CSS  and C++ and I strongly know and keep on to improve my Java knowledge. I currently learning Springboot and working with database. I created some projects using HTML and CSS  . I know about Data stucture fundamentals I keep on to solve problems on Leeetcode platform
 
 
 # 💻 Tech Stack:
